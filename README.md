@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randimuilenburg
 - 👀 I’m interested in: reading, writing, web development, movies, and pet training, enrichment, and nutrition.
-- 🌱 I’m currently learning: front-end web development, how to roller skate, and embroidery.
+- 🌱 I’m currently learning: React, how to roller skate, and how to embroider.
 - 💞️ I’m looking to collaborate on: nothing yet, but maybe in the future!
 - 📫 How to reach me: randilea@outlook.com
 
