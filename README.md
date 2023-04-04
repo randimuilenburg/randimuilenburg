@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @randimuilenburg
-- 👀 I’m interested in: web development, reading, writing, movies, and dog training, enrichment, and nutrition.
-- 🌱 I’m currently learning: back-end development, how to roller skate, and how to embroider.
+- 👀 I’m interested in: full-stack web development, reading, writing, movies, and dog training, enrichment, and nutrition.
+- 🌱 I’m currently learning: back-end development with MongoDB, Docker, TypeScript, and roller skating.
 - 💞️ I’m looking to collaborate on: nothing yet, but maybe in the future!
-- 📫 How to reach me: randilea@outlook.com
+- 📫 How to reach me: rleamuilenburg@gmail.com
 
 <!---
 randimuilenburg/randimuilenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
