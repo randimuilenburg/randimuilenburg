@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randimuilenburg
 - 👀 I’m interested in: full-stack web development, reading, writing, movies, and dog training, enrichment, and nutrition.
-- 🌱 I’m currently learning: back-end development with MongoDB, Docker, TypeScript, and roller skating.
+- 🌱 I’m currently learning: back-end development with MongoDB, Docker, and TypeScript. For fun, I'm learning to roller skate and embroider.
 - 💞️ I’m looking to collaborate on: nothing yet, but maybe in the future!
 - 📫 How to reach me: rleamuilenburg@gmail.com
 
