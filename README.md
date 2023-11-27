@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @randimuilenburg
-- 👀 I’m interested in: full-stack web development, reading, writing, movies, and dog training, enrichment, and nutrition.
-- 🌱 I’m currently learning: TypeScript and MongoDB. For fun, I'm learning to roller skate and embroider.
-- 💞️ I’m looking to collaborate on: nothing yet, but maybe in the future!
+- 👀 I’m interested in: full-stack web development, UX design, WordPress
+- 🌱 I’m currently learning: TypeScript and MongoDB.
 - 📫 How to reach me: rleamuilenburg@gmail.com
 
 <!---
