@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randimuilenburg
-- 👀 I’m interested in: full-stack web development, UX design, WordPress
-- 🌱 I’m currently learning: TypeScript and MongoDB
+- 👀 I’m interested in: React.js, MongoDB, UX Design
+- 🌱 I’m currently learning: TypeScript
 - 📫 How to reach me: rleamuilenburg@gmail.com
 
 <!---
