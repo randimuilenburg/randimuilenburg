@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randimuilenburg
-- 👀 I’m interested in: React.js, MongoDB, UX Design
-- 🌱 I’m currently learning: TypeScript
+- 👀 I’m interested in: JavaScript, React.js, MongoDB, Docker, UX Design
+- 🌱 I’m currently learning: CodeAcademy Pro Full-Stack Engineer Path
 - 📫 How to reach me: rleamuilenburg@gmail.com
 
 <!---
